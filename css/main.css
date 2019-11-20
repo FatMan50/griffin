@@ -160,7 +160,7 @@ main > section {
 
 .sec-title {
     margin-bottom: 50px;
-    
+
 }
 
 .sec-title.white {
@@ -535,7 +535,7 @@ h1.navbar-brand {
     border: 3px solid #fff;
     border-radius: 50%;
     margin-right: 35px;
-    max-width: 100px;
+    max-width: 155px;
 }
 
 #about .message-body {
