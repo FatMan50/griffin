@@ -14,7 +14,7 @@ text-align: center;
   width: 100%;
 }
 #griffin h1 {
-  color: #009EE3;
+  color: #006838;
   line-height: .9em;
   font-weight: 600;
   font-size: 3.5em;
@@ -24,8 +24,12 @@ text-align: center;
 .g-services p {
   padding-bottom: 15px;
 }
-.g-services i {
+/* .g-services i {
   color: rgba(0,158,227, 0.78);
+} */
+
+.g-services  a {
+  color: #006838 !important;
 }
 
 .g-port-thumb {
@@ -38,4 +42,12 @@ text-align: center;
 
 .g-icon {
   padding-top: 50px;
+}
+
+.ht-icon {
+  color: #006838;
+}
+
+.service-item  a {
+  color: #006838 !important;
 }
