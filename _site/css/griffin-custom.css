@@ -1,0 +1,58 @@
+#griffin {
+
+padding-top: 10em;
+text-align: center;
+
+}
+@media screen and (max-width: 1100px){
+    #griffin {
+        padding-top: 8em;
+    }
+  }
+#griffin img {
+  object-fit: cover;
+  width: 100%;
+}
+#griffin h1 {
+  color: #006838;
+  line-height: .9em;
+  font-weight: 600;
+  font-size: 2.5em;
+
+}
+
+.g-services p {
+  padding-bottom: 15px;
+}
+/* .g-services i {
+  color: rgba(0,158,227, 0.78);
+} */
+
+.g-services  a {
+  color: #006838 !important;
+}
+
+.g-port-thumb {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    background-color: purple;
+}
+
+.g-icon {
+  padding-top: 5px;
+}
+
+.ht-icon {
+  color: #006838;
+}
+
+.service-item  .btn-primary {
+  border-radius: 10px;
+  background-color: #006838;
+}
+
+.service-item p {
+  padding-bottom: 15px;
+}
